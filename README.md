@@ -15,16 +15,22 @@ Open the file: doa17-s3-site-cartridge/jenkins/jobs/dsl/doa17_s3_site_cartridge.
 - Example: doa17-chuymarin-bucket
 - Add, Commit and Push your changes
 
+* Open the file: doa17-s3-site-cartridge/src/urls.txt
+- Change the URL in this file to the URL from you git repo in doa17-static-page
+- Add, comit and Push your changes
+
 ### Step 3
 Open the file: doa17-static-page/index.html
 - Search where it says: {name} and change it with your github user name
 - Add, Commit and Push your changes
+
 
 ### Step 4
 Open ADOP url (will be provided by your instructors)
 - Open Jenkins
 - Go to DevOps_Academy Workspace
 - Create a Project (Name: your github user)
+
 
 ### Step 5
 Loading Cartridge
